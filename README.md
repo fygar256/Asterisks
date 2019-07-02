@@ -1,5 +1,5 @@
 # Asterisks
-A retro game runs on Commodore CBM-3032 and PET about 40 years ago
+A retro game ran on Commodore CBM-3032 and PET about 40 years ago
 issued from 'cursor' software coterie.
 This is a rewrite of that. I forgot the name of game, so named it 'Asterisks'
 
